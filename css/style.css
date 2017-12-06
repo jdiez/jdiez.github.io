@@ -150,6 +150,12 @@ body {
                 width: 20px;
                 height: 20px;
             }
+	    .shiny{
+                background-image: url(../img/shiny_r.png);
+                width: 20px;
+                height: 20px;
+
+		}
 
 
 
